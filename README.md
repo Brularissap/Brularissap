@@ -19,7 +19,7 @@ Sou graduada em Engenharia Ambiental pela Estácio de Belém (2015), com Mestrad
      height="50" />
           
           
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Brularissap&repo=qgis-py-earthengine&show_owner=true)](https://github.com/Brularissap/qgis-py-earthengine)
 
 
 
