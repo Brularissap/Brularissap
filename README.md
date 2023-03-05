@@ -1,13 +1,11 @@
 <h2>Bruna Pereira</h2>
 
-<div>
-<a href ="https://www.linkedin.com/in/bruna-pereira-989395ab/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
- <a href ="https://www.instagram.com/sigmaps_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href ="mailto:csigmaps@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
- 
-</div>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Brularissap.earthengine-js)
+<a href ="https://www.instagram.com/sigmaps_/"><img src="https://img.shields.io/badge/My-Instagram-red"></a>
+<a href ="https://www.linkedin.com/in/bruna-pereira-989395ab/"><img src="https://img.shields.io/badge/My-Linkedin-blue"></a>
+
+
  
 Sou graduada em Engenharia Ambiental pela Estácio de Belém (2015), com Mestrado em Gestão de Riscos e Desastres Naturais na Amazônia, pela Universidade Federal do Estado do Pará - UFPA (2021). Atualmente tenho me dedicado em estudos que envolvam linguagens python e JavaScript com a finalidade de aplicar aos softwares da área de sensoriamento remoto e geoprocessamento como o QGIS por exemplo. O Google Earth Engine tem me chamado atenção recentemente. Tenho um perfil profissional chamado @sigmaps_ onde posto conhecimento para todos os interessados no assunto.
 
@@ -24,9 +22,10 @@ Sou graduada em Engenharia Ambiental pela Estácio de Belém (2015), com Mestrad
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
      width="40" 
      height="50" />
-          
-          
-
-
-
+<img src="https://user-images.githubusercontent.com/120928832/222986422-909a94fc-fe72-42fc-b2fc-52f21a5e714d.png"
+     width="50" 
+     height="50" />
+<img src="https://user-images.githubusercontent.com/120928832/222986312-5244df6b-79e5-4121-86c0-f082ef723a85.svg" 
+     width="40" 
+     height="50" />
 
