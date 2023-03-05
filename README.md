@@ -17,6 +17,14 @@ Sou graduada em Engenharia Ambiental pela Estácio de Belém (2015), com Mestrad
 </picture>
 
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+     width="40" 
+     height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+     width="40" 
+     height="50" />
+          
+          
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brularissap)](https://github.com/Brularissap/earthengine-js)
 
