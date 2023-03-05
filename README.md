@@ -2,7 +2,7 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Brularissap.earthengine-js)
  
-Sou graduada em Engenharia Ambiental pelo Instituto de Estudos Superiores da Amazônia - IESAM (2015), com Mestrado em Gestão de Riscos e Desastres Naturais na Amazônia, pela Universidade Federal do Estado do Pará - UFPA (2021). Atualmente tenho me dedicado em estudos que envolvam linguagens python e JavaScript com a finalidade de aplicar aos softwares da área de sensoriamento remoto e geoprocessamento como o QGIS por exemplo. O Google Earth Engine tem me chamado atenção recentemente. Tenho um perfil profissional chamado @sigmaps_ onde posto conhecimento para todos os interessados no assunto.
+Sou graduada em Engenharia Ambiental pela Estácio de Belém (2015), com Mestrado em Gestão de Riscos e Desastres Naturais na Amazônia, pela Universidade Federal do Estado do Pará - UFPA (2021). Atualmente tenho me dedicado em estudos que envolvam linguagens python e JavaScript com a finalidade de aplicar aos softwares da área de sensoriamento remoto e geoprocessamento como o QGIS por exemplo. O Google Earth Engine tem me chamado atenção recentemente. Tenho um perfil profissional chamado @sigmaps_ onde posto conhecimento para todos os interessados no assunto.
 
 <picture>
 <source 
