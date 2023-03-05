@@ -20,16 +20,19 @@ Sou graduada em Engenharia Ambiental pela Estácio de Belém (2015), com Mestrad
 </div>
 
 <!-- Abaixo estão os icones para python, js, qgis e gee -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-     width="40" 
-     height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-     width="40" 
-     height="50" />
-<img src="https://user-images.githubusercontent.com/120928832/222986422-909a94fc-fe72-42fc-b2fc-52f21a5e714d.png"
+
+<img src="https://raw.githubusercontent.com/Brularissap/Brularissap/main/qgis-icon.png"
      width="50" 
      height="50" />
-<img src="https://user-images.githubusercontent.com/120928832/222986312-5244df6b-79e5-4121-86c0-f082ef723a85.svg" 
+<img src="https://raw.githubusercontent.com/Brularissap/Brularissap/main/python-original.svg"
      width="40" 
      height="50" />
+<img src="https://raw.githubusercontent.com/Brularissap/Brularissap/main/javascript-original.svg"
+     width="40" 
+     height="50" />
+<img src="https://raw.githubusercontent.com/Brularissap/Brularissap/main/google_earth_engine_logo.png" 
+     width="60" 
+     height="50" />
+
+
 
