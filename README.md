@@ -6,7 +6,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Brularissap.earthengine-js)
 <a href ="https://www.instagram.com/sigmaps_/"><img src="https://img.shields.io/badge/My-Instagram-red"></a>
 <a href ="https://www.linkedin.com/in/bruna-pereira-989395ab/"><img src="https://img.shields.io/badge/My-Linkedin-blue"></a>
-<a href ="mailto:larissapereira_443@hotmail.com"><img src="https://img.shields.io/badge/My-Email-red"></a>
+<a href ="mailto:csigmaps@gmail.com"><img src="https://img.shields.io/badge/My-Email-red"></a>
 
 Bem vindo(a) ao meu perfil GitHub 👋
  
@@ -36,3 +36,4 @@ Sou graduada em Engenharia Ambiental pela Estácio de Belém (2015), com Mestrad
      height="50" />
 
 
+![Snake animation](https://github.com/Brularissap/Brularissap/blob/output/github-contribution-grid-snake.svg)
