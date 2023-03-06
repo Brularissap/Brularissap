@@ -35,4 +35,3 @@ Sou graduada em Engenharia Ambiental pela Estácio de Belém (2015), com Mestrad
      height="50" />
 
 
-![Snake animation](https://github.com/Brularissap/Brularissap/blob/output/github-contribution-grid-snake.svg)
