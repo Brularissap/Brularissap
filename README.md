@@ -11,7 +11,7 @@
 Bem vindo(a) ao meu perfil GitHub 👋
  
 <!-- Quem sou eu?-->
-Sou graduada em Engenharia Ambiental pela Estácio de Belém (2015), com Mestrado em Gestão de Riscos e Desastres Naturais na Amazônia, pela Universidade Federal do Estado do Pará - UFPA (2021). Atualmente tenho me dedicado em estudos que envolvam linguagens python e JavaScript com a finalidade de aplicar aos softwares da área de sensoriamento remoto e geoprocessamento como o QGIS por exemplo. O Google Earth Engine tem me chamado atenção recentemente. Tenho um perfil profissional chamado @sigmaps_ onde posto conhecimento para todos os interessados no assunto.
+Sou graduada em Engenharia Ambiental pela Estácio de Belém (2015), com Mestrado em Gestão de Riscos e Desastres Naturais na Amazônia, pela Universidade Federal do Estado do Pará - UFPA (2021). Atualmente tenho me dedicado em estudos que envolvam linguagens python e JavaScript com a finalidade de aplicar aos softwares da área de sensoriamento remoto e geoprocessamento como o QGIS por exemplo e produção de mapas na web. Possuo habilidades em Power BI, na produção de dashboard, na plataorma Google Earth Engine onde realizo aplicações diversas. Tenho um perfil profissional chamado @sigmaps_ onde posto conhecimento para todos os interessados no assunto.
 
 
 <!-- GitHub Stats-->
