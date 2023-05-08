@@ -8,6 +8,10 @@
 <a href ="https://www.linkedin.com/in/bruna-pereira-989395ab/"><img src="https://img.shields.io/badge/My-Linkedin-blue"></a>
 
 
+Welcome to my GitHub profile 👋
+I have a Bachelor's degree in Environmental Engineering from Estácio de Belém (2015) and a Master's degree in Risk and Natural Disaster Management in the Amazon region from the Federal University of Pará - UFPA (2021). During my master's dissertation, I analyzed social vulnerability indicators in a watershed in the city of Belém, which allowed me to develop skills in data interpretation and analysis. For this, I used Excel as a tool for data processing, organization, and calculation obtained from census sectors. Additionally, I conducted a mapping of flood risk and vulnerability using geoprocessing software (ArcGIS and QGIS), where I was able to enhance my skills in data visualization and communication.
+Currently, I am focused on improving my programming skills in languages such as Python and JavaScript to apply them in remote sensing and geoprocessing software, such as QGIS, and in the production of web maps. I am proficient in Power BI in creating dashboards and also study and apply Google Earth Engine in various applications. Moreover, I maintain a professional profile called @sigmaps_ where I share my knowledge with anyone interested in the subject, including my experiences and learnings with Google Earth Engine.
+
 Bem vindo(a) ao meu perfil GitHub 👋
  
 <!-- Quem sou eu?-->
